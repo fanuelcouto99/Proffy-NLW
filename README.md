@@ -1,9 +1,9 @@
 # Proffy
 Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudantes com a busca de professores.
 
-<p align="center">
+<h1 align="center">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/landing.svg" width="600">
-</p>
+</h1>
 
 <h4 align="center"> 
 	🚧  Proffys | Concluído 🚀 🚧
