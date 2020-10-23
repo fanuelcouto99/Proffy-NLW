@@ -27,8 +27,8 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p>O Proffy é uma ferramenta que tem por objetivo ajudar estudades a encontrarem professores de diversas áres a fim obterem aulas particulares.</p>
 <p>Com isso foi criada uma aplicação Web, usando NodeJs para servidor, e JavaScript para backend além do CSS ser feito especificamente para o projeto.</p>
 
-<p>Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
+Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
 
