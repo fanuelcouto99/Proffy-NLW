@@ -13,6 +13,12 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p>Com isso foi criada uma aplicação Web, usando NodeJs para servidor, e JavaScript para backend além do CSS ser feito especificamente para o projeto.</p>
 
 <p align="center">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/node-js.png" width="400" &nbsp;&nbsp;>
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/node-js.png" width="400">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/logo-js.png" width="200" height="200">
 </p>  
+
+<p> Ao acessar a plataforma, poderá ser visualizado as opções da ferramenta e escolher entre Estudar ou Dar aulas.</p>
+
+<p align="center">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/index.png" width="600">
+</p>
