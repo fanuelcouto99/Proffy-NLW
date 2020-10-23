@@ -106,11 +106,15 @@ Primeiro clone este repositório:
   node src/database/db.js
 ```
 
+<br/>
+
 <p>Depois de configurado, acesse a pasta raiz pelo terminal e será preciso executar startar o servidor, executando o comando:</p>
 
 ```bash
   npm run dev
 ```
+
+<br/>
 
 <p>Feito isso o projeto já está pronto para uso, funcionando na porta 5500</p>
 
