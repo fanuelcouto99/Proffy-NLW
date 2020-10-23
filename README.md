@@ -14,7 +14,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p align="center">
  <a href="#scroll-sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#gear-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
+ <a href="#art-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
@@ -55,6 +55,14 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 ### :iphone: Mobile
+
+<p align="center"> 
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-index.png" width="400">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-study.png" width="400">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes.png" width="400">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes2.png" width="400">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes3.png" width="400">
+</p>
 
 
 
