@@ -29,3 +29,25 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/navigaton.gif" width="1200">
 </p>
 
+### :factory: Executando o servidor (Aplicação em NodeJs)
+
+<p>Por padrão a aplicação já esta com uma base de dados SQLite sendo enviada junto ao projeto, com a configura já para start do servidor feita dentro do arquivo package.json</p>
+
+<p>Depois de configurado acesse a pasta src/database pelo terminal, será preciso executar a criação das tabelas na base de dados, executando o comando:</p>
+
+```bash
+  node src/database/db.js
+```
+
+<p>Depois de configurado, acesse a pasta raiz pelo terminal e será preciso executar startar o servidor, executando o comando:</p>
+
+```bash
+  npm run dev
+```
+
+<p>Feito isso o projeto já está pronto para uso, funcionando na porta 5500</p>
+
+```bash
+  localhost:5500
+```
+
