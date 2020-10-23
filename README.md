@@ -8,3 +8,4 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa criar uma plataform
 
 <hr>
 
+### :scroll: Sobre o projeto
