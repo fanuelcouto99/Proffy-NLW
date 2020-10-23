@@ -5,7 +5,22 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/landing.svg" width="600">
 </p>
 
+<h4 align="center"> 
+	🚧  Proffys | Concluído 🚀 🚧
+</h4>
+
 <hr>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-contribuidores">Contribuidores</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
 ### :scroll: Sobre o projeto
 
