@@ -57,11 +57,10 @@ O layout da aplicação está disponível no Figma:
 ### :iphone: Mobile
 
 <p align="center"> 
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-index.png" width="200" height="200">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-index.png" width="400">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-study.png" width="400">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes.png" width="400">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes2.png" width="400">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/mobile-give-classes3.png" width="400">
+
 </p>
 
 
