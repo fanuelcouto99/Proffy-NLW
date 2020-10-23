@@ -70,32 +70,21 @@ O layout da aplicação está disponível no Figma:
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/wweb-sucess.png" width="1200">
 </p>
 
-
-
-
-
-
-
-
-
-<p align="center">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/node-js.png" width="400">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/logo-js.png" width="200" height="200">
-</p>  
-
-<p> Ao acessar a plataforma, poderá ser visualizado as opções da ferramenta e escolher entre Estudar ou Dar aulas.</p>
-
-<p align="center">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/index.png" width="1200">
-</p>
-
 <p> Navegação entre as telas do Projeto</p>
 
 <p align="center">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/navigaton.gif" width="1200">
 </p>
 
-### :factory: Executando o servidor (Aplicação em NodeJs)
+---
+
+## :factory: Executando o servidor (Aplicação em NodeJs)
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 <p>Por padrão a aplicação já esta com uma base de dados SQLite sendo enviada junto ao projeto, com a configura já para start do servidor feita dentro do arquivo package.json</p>
 
