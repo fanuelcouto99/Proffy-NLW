@@ -1,2 +1,2 @@
-# Proffy-NLW
- Projeto criado durante a Next Level Week Agosto/2020
+# Proffy
+ Sistema desenvolvido durante a Semana Discovery 12, que visa criar uma plataforma para estudantes buscarem professores em diversas áreas.
