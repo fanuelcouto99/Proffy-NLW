@@ -94,7 +94,11 @@ Primeiro clone este repositório:
   git clone https://github.com/fanuelcouto99/Proffy-NLW.git
 ```
 
-<p>Por padrão a aplicação já esta com uma base de dados SQLite sendo enviada junto ao projeto, com a configura já para start do servidor feita dentro do arquivo package.json</p>
+<br/>
+
+<p>Por padrão a aplicação já está com uma base de dados SQLite sendo enviada junto ao projeto, com a configuração para start do servidor feita dentro do arquivo package.json</p>
+
+<br/>
 
 <p>Depois de configurado acesse a pasta src/database pelo terminal, será preciso executar a criação das tabelas na base de dados, executando o comando:</p>
 
