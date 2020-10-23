@@ -14,5 +14,8 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 
 <p align="center">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/node-js.png" width="400">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/logo-js.png" width="200" height="200">
 </p>
+
+<p align="right">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/logo-js.png" width="200" height="200">
+</p>    
