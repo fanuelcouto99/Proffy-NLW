@@ -34,21 +34,15 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## :gear: Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+- [x] Professores podem se cadastrar na plataforma web:
+  - [x] uma foto do professor
+  - [x] nome completo, whatsapp e bio
+  - [x] e o valor da hora/aula
+  - [x] além de selecionar dia(s) e horário(s) da(s) aula(s)
 
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+- [x] Os estudantes tem acesso a plataforma, onde podem:
+  - [x] pesquisar professores disponíveis, filtrando por dia, disciplina e horário
+  - [x] entrar em contato com o professor através do WhatsApp
 
 ---
 
