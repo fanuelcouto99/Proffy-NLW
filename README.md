@@ -46,6 +46,15 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 
+## :art: Layout
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/eO8YbZuAs0GZi3CUpVdU5h/Proffy-Web-Copy">
+  <img alt="Made by fanuelCouto" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+### :iphone: Mobile
 
 
 
