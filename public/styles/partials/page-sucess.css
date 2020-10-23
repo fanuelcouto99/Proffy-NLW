@@ -1,0 +1,116 @@
+/* Configurando CSS Mobile First */
+
+#page-sucess { 
+    background: var(--color-primary);
+}
+
+/* Alinhando conteudo no centro da tela */
+#page-sucess #container {
+    text-align: center;
+}
+
+/* Ocultando imagem na tela */
+#page-sucess #container .logo {
+    display: none;
+}
+
+#container .buttons-container {
+    display: flex;
+    justify-content: center;
+    margin: 3.2rem 0;
+}
+
+#container #logo-container h1 {
+    font: 700 3.2rem Archivo;
+    color: var(--color-title-in-primary);
+    margin-top: 2.4rem;
+}
+
+#container #logo-container p {
+    font: 400 1.6rem Poppins;
+    color: var(--color-text-in-primary);
+    margin-top: 2.4rem;
+    line-height: 2.8rem;
+}
+
+#container .buttons-container a {
+    width: 90vw;
+    height: 8.4rem;
+    border-radius: 0.8rem;
+    font: 700 2.4rem Archivo;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--color-button-text);
+    background: var(--color-secondary);
+    transition: background 0.2s;
+}
+
+#container .buttons-container a:hover{
+    background: var(--color-secondary-dark);
+}
+
+@media (min-width: 700px) {
+
+    #page-sucess #container {
+        max-width: 100vw;
+        height: 100vh;
+        position: relative;
+        text-align: center;
+    }
+
+    /* Colocando a logo para tras da div dos textos e botoes com zindex */
+    #page-sucess #container .logo {
+        display: flex;
+        padding: 6rem;
+        width: 100%;
+        height: 90%;
+        position: absolute;
+        z-index: -1;
+    }
+
+    #container .content-container {
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #container #logo-container img {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    #container .content-container #logo-container h1 {
+        font: 700 4.6rem Archivo;
+        color: var(--color-title-in-primary);
+        margin-top: 2.4rem;
+    }
+
+    #container .buttons-container {
+        z-index: 10;
+    }
+
+    #container .buttons-container a {
+        width: 30rem;
+        height: 8.4rem;
+        border-radius: 0.8rem;
+        font: 600 2.4rem Archivo;
+        display: flex;
+        cursor: pointer;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        color: var(--color-button-text);
+        background: var(--color-secondary);
+        transition: background 0.2s;
+    }
+    
+    #container .buttons-container a:hover{
+        background: var(--color-secondary-dark);
+    }
+}
