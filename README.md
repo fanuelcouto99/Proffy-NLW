@@ -13,7 +13,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 
 <p align="center">
  <a href="#scroll-sobre-o-projeto">Sobre o Projeto</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#gear-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -24,8 +24,11 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 
 ## :scroll: Sobre o projeto
 
-<p>O projeto foi desenvolvido durante a Semana Discovery 12, que tem por objetivo facilitar estudades a encontrarem professores de diversas áres para obterem aulas particulares.</p>
+<p>O Proffy é uma ferramenta que tem por objetivo ajudar estudades a encontrarem professores de diversas áres a fim obterem aulas particulares.</p>
 <p>Com isso foi criada uma aplicação Web, usando NodeJs para servidor, e JavaScript para backend além do CSS ser feito especificamente para o projeto.</p>
+
+<p>Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
 
 ---
 
