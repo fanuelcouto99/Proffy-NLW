@@ -27,6 +27,36 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p>O projeto foi desenvolvido durante a Semana Discovery 12, que tem por objetivo facilitar estudades a encontrarem professores de diversas áres para obterem aulas particulares.</p>
 <p>Com isso foi criada uma aplicação Web, usando NodeJs para servidor, e JavaScript para backend além do CSS ser feito especificamente para o projeto.</p>
 
+---
+
+## ⚙️ Funcionalidades
+
+- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
+  - [x] uma imagem do ponto de coleta
+  - [x] nome da entidade, email e whatsapp
+  - [x] e o endereço para que ele possa aparecer no mapa
+  - [x] além de selecionar um ou mais ítens de coleta: 
+    - lâmpadas
+    - pilhas e baterias
+    - papéis e papelão
+    - resíduos eletrônicos
+    - resíduos orgânicos
+    - óleo de cozinha
+
+- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
+  - [x] navegar pelo mapa para ver as instituições cadastradas
+  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+
+---
+
+
+
+
+
+
+
+
+
 <p align="center">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/node-js.png" width="400">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/logo-js.png" width="200" height="200">
