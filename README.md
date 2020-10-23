@@ -22,3 +22,10 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p align="center">
     <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/index.png" width="1200">
 </p>
+
+<p> Navegação entre as telas do Projeto</p>
+
+<p align="center">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/navigaton.gif" width="1200">
+</p>
+
