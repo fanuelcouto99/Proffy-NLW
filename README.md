@@ -12,7 +12,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <hr>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
+ <a href="#scroll-sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
@@ -29,7 +29,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 
 ---
 
-## ⚙️ Funcionalidades
+## :gear Funcionalidades
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta
