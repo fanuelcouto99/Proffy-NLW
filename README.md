@@ -63,6 +63,12 @@ O layout da aplicação está disponível no Figma:
 
 </p>
 
+### :computer: Web
+
+<p align="center">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/layout-web.png" width="1200">
+</p>
+
 
 
 
