@@ -20,5 +20,5 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 <p> Ao acessar a plataforma, poderá ser visualizado as opções da ferramenta e escolher entre Estudar ou Dar aulas.</p>
 
 <p align="center">
-    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/index.png" width="600">
+    <img src="https://github.com/fanuelcouto99/Proffy-NLW/blob/main/public/assets/img/index.png" width="800">
 </p>
