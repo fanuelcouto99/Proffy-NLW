@@ -29,7 +29,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
 
 ---
 
-## :gear Funcionalidades
+## :gear: Funcionalidades
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta
