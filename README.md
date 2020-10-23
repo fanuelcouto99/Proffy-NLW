@@ -15,11 +15,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
  <a href="#scroll-sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#gear-funcionalidades">Funcionalidades</a> •
  <a href="#art-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#factory-executando-o-servidor-aplicação-em-nodejs">Como executar</a> 
 </p>
 
 ## :scroll: Sobre o projeto
