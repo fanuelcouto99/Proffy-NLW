@@ -22,7 +22,7 @@ Sistema desenvolvido durante a Semana Discovery 12, que visa facilitar estudante
  <a href="#user-content--licença">Licença</a>
 </p>
 
-### :scroll: Sobre o projeto
+## :scroll: Sobre o projeto
 
 <p>O projeto foi desenvolvido durante a Semana Discovery 12, que tem por objetivo facilitar estudades a encontrarem professores de diversas áres para obterem aulas particulares.</p>
 <p>Com isso foi criada uma aplicação Web, usando NodeJs para servidor, e JavaScript para backend além do CSS ser feito especificamente para o projeto.</p>
